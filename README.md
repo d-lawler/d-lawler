@@ -1,4 +1,19 @@
-Hi 👋 i'm dave, and [this is my website](http://davidlawler.ie/), take a look if you feel like it. Currently freelance Creative Lead at Google Brand Studio. I run [Research and Destroy](http://r-a-d.website/), a small creative studio focused on design + tech. Feel free to email me :-)
+hi, i'm dave, i'm a creative director and technologist working in london
+
+currently at google brand studio, emea. always at [research and destroy](https://r-a-d.website),
+a small studio for design and technology, working with clients like pentagram, manual, mixcloud ++
+
+some public stuff is here
+
+- [r-a-d.website](https://github.com/d-lawler/r-a-d.website): studio site. a custom glsl shader,
+  a favicon that's a live window onto it, and video that only loads what you watch
+- [davidlawler.ie](https://github.com/d-lawler/davidlawler.ie): personal site. text that diffs
+  itself word by word and only animates what changed
+- [calendave](https://github.com/d-lawler/calendave): events in london i like, kept fresh by a
+  scheduled claude agent with guardrails
+
+[davidlawler.ie](https://davidlawler.ie) / david@davidlawler.ie
+[r-a-d.website](https:r-a-d.website) / email@r-a-d.website
 
 ![Woodstock is cool!](./woodstock.png)
 
