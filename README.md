@@ -13,8 +13,5 @@ some public stuff is here
   scheduled claude agent with guardrails
 
 [davidlawler.ie](https://davidlawler.ie) / david@davidlawler.ie
+
 [r-a-d.website](https:r-a-d.website) / email@r-a-d.website
-
-![Woodstock is cool!](./woodstock.png)
-
-[![Github Stat](https://github-readme-stats.vercel.app/api?username=d-lawler&count_private=true)](https://github.com/d-lawler)
