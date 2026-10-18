@@ -11,6 +11,7 @@ some public stuff is here
   itself word by word and only animates what changed
 - [calendave](https://github.com/d-lawler/calendave): events in london i like, kept fresh by a
   scheduled claude agent with guardrails
+- [canyoureadthesmallprint](https://github.com/d-lawler/canyoureadthesmallprint): got sick of explaining myself to legal. checks the legal copy on ad artwork against wcag, in the browser
 
 [davidlawler.ie](https://davidlawler.ie) / david@davidlawler.ie
 
@@ -18,6 +19,4 @@ some public stuff is here
 
 
 
-<p align="center"><video src="https://github.com/user-attachments/assets/5d78edfa-4374-411f-913f-6e3bfcbaaa10" width="480" controls muted></video>video></p>p>
-
-
+https://github.com/user-attachments/assets/5d78edfa-4374-411f-913f-6e3bfcbaaa10
