@@ -16,4 +16,8 @@ some public stuff is here
 
 [r-a-d.website](https://r-a-d.website) / email@r-a-d.website
 
-https://github.com/user-attachments/assets/19fcf3ee-64e4-46da-89fe-8452621ed457
+
+
+<p align="center"><video src="https://github.com/user-attachments/assets/5d78edfa-4374-411f-913f-6e3bfcbaaa10" width="480" controls muted></video>video></p>p>
+
+
