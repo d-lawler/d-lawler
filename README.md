@@ -16,4 +16,3 @@ some public stuff is here
 
 [r-a-d.website](https://r-a-d.website) / email@r-a-d.website
 
-[![Research and Destroy work](reel.gif)](https://r-a-d.website)
