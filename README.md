@@ -3,7 +3,7 @@ hi, i'm dave, i'm a creative director and technologist working in london
 currently creative lead tvc at google brand studio, emea. always at [research and destroy](https://r-a-d.website),
 a small studio for design and technology, working with clients like pentagram, manual, mixcloud ++
 
-most of my work lives in 100+ private repos, under client ndas and image licensing restrictions. a few things i can share:
+most of my work lives in private repos. a few things i can share:
 
 - [r-a-d.website](https://github.com/d-lawler/r-a-d.website): studio site. a custom glsl shader,
   a favicon that's a live window onto it, and video that only loads what you watch
