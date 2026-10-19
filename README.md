@@ -1,6 +1,6 @@
 hi, i'm dave, i'm a creative director and technologist working in london
 
-currently at google brand studio, emea. always at [research and destroy](https://r-a-d.website),
+currently creative lead tvc at google brand studio, emea. always at [research and destroy](https://r-a-d.website),
 a small studio for design and technology, working with clients like pentagram, manual, mixcloud ++
 
 most of my work lives in 100+ private repos, under client ndas and image licensing restrictions. a few things i can share:
