@@ -11,7 +11,7 @@ most of my work lives in 100+ private repos, under client ndas and image licensi
   itself word by word and only animates what changed
 - [calendave](https://github.com/d-lawler/calendave): events in london i like, kept fresh by a
   scheduled claude agent with guardrails
-- [canyoureadthesmallprint](https://github.com/d-lawler/canyoureadthesmallprint): got sick of explaining myself to legal. checks the legal copy on ad artwork against wcag, in the browser. Built with Rust, because it's fast and ... cool?
+- [canyoureadthesmallprint](https://github.com/d-lawler/canyoureadthesmallprint): checks the legal copy on ad artwork against wcag, in the browser. Built with Rust, because it's fast and ... cool?
 
 [davidlawler.ie](https://davidlawler.ie) / david@davidlawler.ie
 
